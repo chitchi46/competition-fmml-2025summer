@@ -1,0 +1,29 @@
+# Data & artifacts
+data/
+!data/.gitkeep
+
+# Notebooks
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Logs
+logs/
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+
